@@ -14,6 +14,24 @@
             width: 30px;
         }        
     }
+    .hero{
+        background-image: url("./assets/images/mobhero_iphone_family__be5jkzxszb1e_small_2x.jpg");
+        background-repeat: no-repeat;
+        background-position: center;
+        background-size: cover;
+    }
+    .fathers-day{
+        background-image: url("./assets/images/tabhero_fd26__c9vr0hxu24eq_small_2x.jpg");
+        background-repeat: no-repeat;
+        background-position: center;
+        background-size: cover;
+    }
+    .college{
+        background-image: url("./assets/images/@hero_college_students_2026__dzrtx52rt9aq_small_2x.jpg");
+        background-repeat: no-repeat;
+        background-position: center;
+        background-size: cover;
+    }
     .section8{
         text-align: left;
     padding: 25px 50px;
